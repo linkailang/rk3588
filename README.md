@@ -1,6 +1,7 @@
-# LubanCat-4-Development-Guide
-## 参考资料
 
+## 参考资料
+ROS2-V3.5(humble)常用指令
+G:\github\lubancat\LubanCat-4-Development\ros2\lubancat4_ros2_humble-wanghao\src
 This repository is used to record the development processes （allocation algorithm to diagnosis bearing fault） of LubanCat-4. 
 >[6. LubanCat-4系列硬件介绍 — 快速使用手册—基于LubanCat-RK356x系列板卡 文档 (embedfire.com)](https://doc.embedfire.com/linux/rk356x/quick_start/zh/latest/quick_start/lubancat/lubancat4.html)
 
