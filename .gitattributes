@@ -1,2 +1,4 @@
+第三方工具/*.sh filter=lfs diff=lfs merge=lfs -text
+第三方工具/*.tar.xz filter=lfs diff=lfs merge=lfs -text
 *.tar.xz filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
